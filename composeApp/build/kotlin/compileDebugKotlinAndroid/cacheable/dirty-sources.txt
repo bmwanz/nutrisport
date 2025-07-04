@@ -1,0 +1,6 @@
+/Users/bw/Documents/Android/StevdzaNutrisport/nutrisport/composeApp/build/generated/compose/resourceGenerator/kotlin/androidMainResourceCollectors/nutrisport/composeapp/generated/resources/ActualResourceCollectors.kt
+/Users/bw/Documents/Android/StevdzaNutrisport/nutrisport/composeApp/src/commonMain/kotlin/com/bw/nutrisport/App.kt
+/Users/bw/Documents/Android/StevdzaNutrisport/nutrisport/composeApp/build/generated/compose/resourceGenerator/kotlin/commonResClass/nutrisport/composeapp/generated/resources/Res.kt
+/Users/bw/Documents/Android/StevdzaNutrisport/nutrisport/composeApp/src/androidMain/kotlin/com/bw/nutrisport/MainActivity.kt
+/Users/bw/Documents/Android/StevdzaNutrisport/nutrisport/composeApp/build/generated/compose/resourceGenerator/kotlin/commonMainResourceAccessors/nutrisport/composeapp/generated/resources/Drawable0.commonMain.kt
+/Users/bw/Documents/Android/StevdzaNutrisport/nutrisport/composeApp/build/generated/compose/resourceGenerator/kotlin/commonMainResourceCollectors/nutrisport/composeapp/generated/resources/ExpectResourceCollectors.kt
