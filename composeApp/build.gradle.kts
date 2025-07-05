@@ -43,9 +43,20 @@ kotlin {
             implementation(compose.components.uiToolingPreview)
             implementation(libs.androidx.lifecycle.viewmodel)
             implementation(libs.androidx.lifecycle.runtimeCompose)
-        }
-        commonTest.dependencies {
-            implementation(libs.kotlin.test)
+
+            implementation(libs.auth.kmp)
+            implementation(libs.firebase.app)
+
+            implementation(libs.koin.compose)
+
+            api(libs.kmp.notifier)
+
+            implementation(project.dependencies.platform("com.google.firebase:firebase-bom:31.0.0"))
+
+//            implementation(project(path = ":navigation"))
+//            implementation(project(path = ":shared"))
+//            implementation(project(path = ":di"))
+//            implementation(project(path = ":data"))
         }
     }
 }
